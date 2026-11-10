@@ -25,7 +25,6 @@ telemetry, browser UI or automatic execution of practice commands.
 |                                                                              |
 | WEB       codegurex.com                                                      |
 | GITHUB    github.com/codegurex                                               |
-| LINKEDIN  linkedin.com/in/codegurex                                          |
 +------------------------------------------------------------------------------+
 
 Learn how systems work. Then learn how to secure them.
